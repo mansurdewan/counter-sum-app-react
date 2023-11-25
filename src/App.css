@@ -1,0 +1,14 @@
+.btn{
+  display:block ;
+  padding:20px 50px ;
+  font-size:30px;
+  border-radius: 7px;
+  margin-top: 10px ;
+  color: rgb(35, 126, 10);
+  background-color: rgb(194, 224, 243);
+  border-style: none;
+  font-weight: bold;
+}
+.parent{
+  margin-left: 600px;
+}
